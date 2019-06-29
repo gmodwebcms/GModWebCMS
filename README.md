@@ -1,4 +1,4 @@
-# MineWebCMS
+# GModWebCMS
 
 
 ## C'est quoi MineWeb ?
@@ -13,17 +13,6 @@ Vous pourrez tenir vos joueurs au courant des actualités, leur faire acheter de
 
 Jusqu'en mars 2018, il vous fallait avoir une licence payante pour utiliser le CMS. Mais désormais celui-ci est entièrement disponible sur Github et gratuitement. Il vous suffit de télécharger le repo pour utiliser le CMS sans aucun problème, celui-ci n'est plus dépendant de notre API. 
 
-#### Pourquoi l'avoir rendu gratuit et opensource ?
-
-Premièrement je maintenais ce projet depuis plusieurs années presque complètement seul (hormis les 2/3 supports et 2 amis pour m'aider sur l'infrastructure) et je commençais à m'en lasser, de plus, ne jouant plus à Minecraft je ne m'intéressais plus à ce domaine. Dès mars 2018 j'ai eu ma réelle première expérience professionnelle me poussant également a arrêter ce projet. 
-
-Deuxièmement, le CMS est en développement depuis plusieurs années sur un vieux framework, le code est vieux et j'ai évolué depuis le début, une refonte sera nécessaire pour rajouter des fonctionnalités intéressantes et maintenir correctement le projet mais le manque de temps et de motivation ne m'ont pas permis de le faire.
-
-Troisièmement je ne tenais pas a faire disparaitre le CMS et empêcher mes anciens utilisateurs de l'utiliser. De plus, cela ajoute du contenu sur mon Github. 
-
-### Statistiques
-
-MineWeb, avant ce passage à l'OpenSource c'est plus de 5 000 utilisateurs, plus de 1 500 licences, plus de 100 licences hébergées tous les mois, un Discord avec plus de 800 membres, plusieurs milliers de tickets sur le support.
 
 ## Comment l'utiliser ?
 
