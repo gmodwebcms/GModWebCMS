@@ -11,7 +11,7 @@ class ThemeComponent extends CakeObject
     private $themesAvailable;
     private $themesInstalled;
     private $alreadyCheckValid;
-    private $reference = 'https://raw.githubusercontent.com/MineWeb/mineweb.org/gh-pages/market/themes.json';
+    private $reference = 'https://raw.githubusercontent.com/gmodwebcms/gmodwebcmswebsite/gh-pages/market/themes.json';
 
     private $controller;
 

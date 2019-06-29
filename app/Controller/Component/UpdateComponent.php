@@ -24,8 +24,8 @@ class UpdateComponent extends CakeObject
     'theme.default.json'
   );
   private $source = [
-    'repo' => 'MineWebCMS',
-    'owner' => 'MineWeb',
+    'repo' => 'GModWebCMS',
+    'owner' => 'gmodwebcms',
     'versionFile' => 'VERSION'
   ];
 
