@@ -24,7 +24,7 @@
           <h3 class="box-title"><?= $Lang->get('HELP__PAGE_EXPLAIN_TITLE') ?></h3>
         </div>
         <div class="box-body">
-          <blockquote cite="http://mineweb.org">
+          <blockquote cite="gmodwebcms.github.io">
             <?= $Lang->get('HELP__PAGE_EXPLAIN_CONTENT') ?>
           </blockquote>
         </div>

@@ -101,7 +101,7 @@ class ConfigurationController extends AppController {
 
 			if($this->request->is('post')) {
 
-				if(stripos($this->request->data['GLOBAL__FOOTER'], '<a href="http://mineweb.org">mineweb.org</a>') === FALSE) {
+				if(stripos($this->request->data['GLOBAL__FOOTER'], '<b>GModWebCMS</b>') === FALSE) {
 					$this->Session->setFlash($this->Lang->get('CONFIG__ERROR_SAVE_LANG'), 'default.error');
 				} else {
 

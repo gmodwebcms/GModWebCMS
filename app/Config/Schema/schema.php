@@ -58,8 +58,8 @@ class AppSchema extends CakeSchema {
 
 	    $configuration->create(); // la config de base
 			$configuration->set(array(
-				'name' => 'MineWeb',
-				'email' => 'noreply@mineweb.org',
+				'name' => 'GModWebCMS',
+				'email' => 'noreply@gmodwebcms.github.io',
 				'lang' => 'fr_FR',
 				'theme' => 'default',
 				'layout' => 'default',
@@ -71,10 +71,10 @@ class AppSchema extends CakeSchema {
 				'server_secretkey' => '',
 				'server_timeout' => 1,
 				'condition' => null,
-				'skype' => 'http://mineweb.org',
-				'youtube' => 'http://mineweb.org',
-				'twitter' => 'http://mineweb.org',
-				'facebook' => 'http://mineweb.org',
+				'skype' => 'gmodwebcms.github.io',
+				'youtube' => 'gmodwebcms.github.io',
+				'twitter' => 'gmodwebcms.github.io',
+				'facebook' => 'gmodwebcms.github.io',
 				'banner_server' => serialize(array()),
 				'email_send_type' => '1',
 				'smtpHost' => null,

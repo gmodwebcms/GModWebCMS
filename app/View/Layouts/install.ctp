@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="Eywek">
 
-    <title><?= $title_for_layout; ?> - MineWeb</title>
+    <title><?= $title_for_layout; ?> - GModWebCMS</title>
 
     <?= $this->Html->css('bootstrap.css') ?>
     <?= $this->Html->css('install.css') ?>

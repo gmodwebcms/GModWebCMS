@@ -641,7 +641,7 @@ class LicenseException extends CakeException {
 
 class MinewebCustomMessageException extends CakeException {
 
-	protected $_messageTemplate = 'Disabled by mineweb.org with custom message';
+	protected $_messageTemplate = 'Disabled by GmodWebCMS with custom message';
 
 	public function __construct($message = null, $code = 901) {
 		if (empty($message)) {
